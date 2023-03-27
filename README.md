@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my 17th year of teaching alongside my government work. 
+This is my 17th year of teaching at MATES alongside my 22 years of government work as a lead data scientist. 
 
 This account is for my Data Analysis and Visualization with Python, Data Science, and Senior Capstone projects at MATES. Please share your accounts with me.
 
