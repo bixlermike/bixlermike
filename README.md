@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### This is my 17th year of teaching alongside my government work. 
+
+### This account is for my Data Analysis and Visualization with Python, Data Science, and Senior Capstone projects at MATES. Please share your accounts with me.
+
+### Senior Capstone studenets: Midterm progress presentations are due Friday, March 31st at the end of the block!
+
 <!--
 **bixlermike/bixlermike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
